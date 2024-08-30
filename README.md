@@ -1,2 +1,2 @@
 # screen-time
-A Fast and resource efficient ios-like screen time for linux, written in python and rust.
+A Fast and efficient ios-like screen time for linux, written in python and rust.
